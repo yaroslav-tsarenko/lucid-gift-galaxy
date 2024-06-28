@@ -1,0 +1,864 @@
+.belk-egift-aedb7cf8d60d7c12821-icon {
+  width: 460px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.belk-gift-card {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.usd {
+  margin: 0;
+}
+.no-expiration {
+  margin: 0;
+  color: #666;
+}
+.heading-3-container {
+  height: 54px;
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+  font-size: 48px;
+}
+.blank-line,
+.give-the-gift,
+.using-a-belk {
+  margin: 0;
+}
+.give-the-gift-container {
+  align-self: stretch;
+  height: 197px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.usable-in {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 68px;
+}
+.picture-uswebp {
+  height: 20px;
+  width: 30px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.united-states {
+  flex: 1;
+  position: relative;
+  line-height: 16px;
+}
+.u-s-region {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  color: #0a0a0a;
+}
+.region-label {
+  width: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.strong-please {
+  width: 970px;
+  position: relative;
+  line-height: 135%;
+  color: #666;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.region-details,
+.region-info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.region-details {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 20px 0 0;
+  gap: 32px;
+}
+.region-info {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 8px;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Manrope;
+}
+.send-a-belk {
+  margin: 0;
+  width: 266px;
+  position: relative;
+  font-size: inherit;
+  line-height: 24px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-520 {
+  width: 920px;
+  border-bottom: 1px solid #bbb;
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 3px;
+  font-size: 24px;
+}
+.heading-520,
+.instructions,
+.strong-to {
+  display: flex;
+  max-width: 100%;
+}
+.strong-to {
+  height: 27px;
+  flex: 1;
+  position: relative;
+  line-height: 120%;
+  align-items: center;
+}
+.instructions {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+  color: #666;
+}
+.select-how-much {
+  width: 325px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.options-placeholder {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 26.8px;
+  white-space: nowrap;
+}
+.label {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 26px 2.8px 27px;
+  box-sizing: border-box;
+}
+.div {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label1 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 90px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 25px 2.8px 26px;
+  box-sizing: border-box;
+}
+.div1 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label2 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 180px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 25px 2.8px 26px;
+  box-sizing: border-box;
+}
+.div2 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label3 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 270px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 25px 2.8px 26px;
+  box-sizing: border-box;
+}
+.div3 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label4 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 360px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 25px 2.8px 26px;
+  box-sizing: border-box;
+}
+.div4 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label5 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 450px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 25px 2.8px 26px;
+  box-sizing: border-box;
+}
+.div5 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label6 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 540px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 25px 2.8px 26px;
+  box-sizing: border-box;
+}
+.div6 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label7 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 630px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 24px 2.8px 25px;
+  box-sizing: border-box;
+}
+.div7 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 27px;
+  white-space: nowrap;
+}
+.label8 {
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 720px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 26px 2.8px 27px;
+}
+.div8 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.label9 {
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 810px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 22px 2.8px;
+}
+.div9 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 35.7px;
+  white-space: nowrap;
+}
+.label10 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 900px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 22px 2.8px;
+  box-sizing: border-box;
+}
+.div10 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 35.7px;
+  white-space: nowrap;
+}
+.label11 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 990px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 22px 2.8px;
+  box-sizing: border-box;
+}
+.div11 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 35.7px;
+  white-space: nowrap;
+}
+.label12 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 44px;
+  left: 0;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 22px 2.8px;
+  box-sizing: border-box;
+}
+.div12 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label13 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 44px;
+  left: 90px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 20px 2.8px;
+  box-sizing: border-box;
+}
+.div13 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label14 {
+  width: 80px;
+  margin: 0 !important;
+  position: absolute;
+  top: 44px;
+  left: 180px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 21px 2.8px;
+  box-sizing: border-box;
+}
+.amount-options,
+.info-container,
+.select-how-much-youd-like-to-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.amount-options {
+  height: 78px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.info-container,
+.select-how-much-youd-like-to-parent {
+  flex-direction: column;
+  gap: 8px;
+  max-width: 100%;
+}
+.info-container {
+  gap: 24px;
+  color: #0a0a0a;
+}
+.whats-the-occasion {
+  width: 223px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.anniversary {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label15 {
+  width: 102px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 7px 3px 8px;
+  box-sizing: border-box;
+}
+.baby {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label16 {
+  width: 60px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 11px 3px 12px;
+  box-sizing: border-box;
+}
+.birthday1 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label17 {
+  width: 81px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 9px 3px;
+  box-sizing: border-box;
+}
+.christmas {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label18 {
+  width: 93px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 8px 3px;
+  box-sizing: border-box;
+}
+.congratulations {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label19 {
+  width: 128px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 8px 3px;
+  box-sizing: border-box;
+}
+.farewell {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label20 {
+  width: 81px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 10px 3px;
+  box-sizing: border-box;
+}
+.happy-holidays {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label21 {
+  width: 126px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 6px 3px;
+  box-sizing: border-box;
+}
+.thank-you {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label22 {
+  width: 95px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 9px 3px;
+  box-sizing: border-box;
+}
+.wedding {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.label23 {
+  width: 83px;
+  border-radius: 6px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 8px 3px 9px;
+  box-sizing: border-box;
+}
+.something-else {
+  flex: 1;
+  position: relative;
+  line-height: 16px;
+}
+.label24,
+.occasion-options,
+.whats-the-occasion-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.label24 {
+  width: 137px;
+  border-radius: 6px;
+  background-color: #eee;
+  flex-direction: row;
+  padding: 9px 8px;
+  box-sizing: border-box;
+}
+.occasion-options,
+.whats-the-occasion-parent {
+  align-self: stretch;
+}
+.occasion-options {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.whats-the-occasion-parent {
+  flex-direction: column;
+  gap: 6px;
+  color: #0a0a0a;
+}
+.background11,
+.background12 {
+  position: absolute;
+  border-radius: 20px;
+}
+.background11 {
+  top: 0;
+  left: 0;
+  background-color: #08d;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.background12 {
+  top: 2px;
+  left: 22px;
+  background-color: #fff;
+  width: 16px;
+  height: 16px;
+  z-index: 1;
+}
+.swap-container {
+  height: 20px;
+  width: 40px;
+  position: relative;
+  border-radius: 20px;
+  background-color: #08d;
+}
+.allow-the-recipient {
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.swap-label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.swap-container-parent {
+  flex-direction: row;
+  gap: 11px;
+  font-size: 14px;
+  color: #333;
+  font-family: Manrope;
+}
+.product-container,
+.product-details,
+.swap-container-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.product-details {
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  min-width: 751px;
+}
+.product-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 64px;
+}
+.button6 {
+  align-self: stretch;
+  width: 200px;
+}
+.add-to-cart {
+  width: 1156px;
+  height: 54px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.product-container-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 64px;
+  max-width: 100%;
+}
+.content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 160px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #1c1c1c;
+  font-family: "Libre Caslon Text";
+}
+@media screen and (max-width: 1525px) {
+  .belk-egift-aedb7cf8d60d7c12821-icon {
+    flex: 1;
+  }
+  .product-container {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .content {
+    padding-bottom: 104px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .belk-gift-card {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .region-details {
+    gap: 16px;
+  }
+  .swap-container-parent {
+    flex-wrap: wrap;
+  }
+  .product-details {
+    gap: 16px;
+    min-width: 100%;
+  }
+  .product-container,
+  .product-container-parent {
+    gap: 32px;
+  }
+  .content {
+    padding-bottom: 68px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .belk-gift-card {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .send-a-belk {
+    font-size: 19px;
+    line-height: 19px;
+  }
+  .product-container,
+  .product-container-parent {
+    gap: 16px;
+  }
+}

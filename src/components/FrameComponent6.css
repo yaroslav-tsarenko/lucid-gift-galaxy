@@ -1,0 +1,157 @@
+.choose-card-header,
+.heading-34 {
+  display: flex;
+  justify-content: center;
+}
+.heading-34 {
+  margin: 0;
+  width: 183.1px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.choose-card-header {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+}
+.choose-card-divider-container {
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 27px;
+  width: 484.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 26px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heading-419 {
+  margin: 0;
+  position: relative;
+  font-size: 48px;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: "Libre Caslon Text";
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  display: inline-block;
+  max-width: 100%;
+}
+.choose-card-divider-container1 {
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 27px;
+  width: 484.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 26px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.choose-card-divider {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 45px;
+  max-width: 100%;
+}
+.button4 {
+  border: 0;
+  background-color: transparent;
+  height: 54px;
+  flex: 1;
+  font-family: Manrope;
+  font-size: 16px;
+  -webkit-text-fill-color: transparent;
+  min-width: 300px;
+  max-width: 100%;
+}
+.button5 {
+  height: 54px;
+  width: 200px;
+}
+.choose-card-button-container,
+.choose-card-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.choose-card-buttons {
+  width: 1200px;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+.choose-card-button-container {
+  align-self: stretch;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.choose-card-body {
+  margin: 0;
+  align-items: flex-start;
+  gap: 10px;
+}
+.background-parent,
+.background10,
+.choose-card-body {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background10 {
+  align-items: flex-end;
+  padding: 80px 0;
+  box-sizing: border-box;
+  gap: 19px;
+  background-image: url(/public/background1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.background-parent {
+  align-items: flex-start;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: "Libre Caslon Text";
+}
+@media screen and (max-width: 850px) {
+  .heading-419 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .choose-card-divider {
+    gap: 22px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-34 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-419 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

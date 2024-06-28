@@ -1,0 +1,764 @@
+.background-icon3 {
+  border: 0;
+  background-color: transparent;
+  height: 174.1px;
+  width: auto;
+  outline: 0;
+  align-self: stretch;
+  position: relative;
+  border-radius: 6px 6px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-413,
+.heading-56 {
+  position: relative;
+  line-height: 25px;
+}
+.heading-56 {
+  width: 109px;
+  font-size: 16px;
+  letter-spacing: -0.12px;
+  line-height: 135%;
+  font-family: Manrope;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading-57 {
+  position: relative;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 300;
+  color: #666;
+  text-align: left;
+  display: inline-block;
+  min-width: 72px;
+}
+.item-picture-auwebp,
+.item-picture-cawebp1,
+.item-picture-gbwebp,
+.item-picture-uswebp1 {
+  align-self: stretch;
+  width: 30px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 20px;
+}
+.list4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  gap: 10px;
+}
+.link3,
+.product-content-amazon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+.product-content-amazon {
+  justify-content: center;
+  padding: 12.4px 56px 12.5px;
+}
+.link3 {
+  width: 272px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  background-color: #fff;
+  justify-content: flex-start;
+}
+.background-icon4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 6px 6px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-414 {
+  position: relative;
+  line-height: 25px;
+  white-space: nowrap;
+}
+.heading-58 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 110px;
+}
+.product-currency-headers {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.heading-59 {
+  position: relative;
+  line-height: 16px;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 72px;
+}
+.product-available-labels {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 32px;
+  text-align: left;
+  font-size: 14px;
+  color: #666;
+}
+.list-item-picture-gbweb1 {
+  height: 20px;
+  width: 30px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.product-country-lists {
+  flex-direction: row;
+  padding: 0 53px;
+}
+.link4,
+.product-country-lists,
+.product-headers,
+.product-headers-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-headers {
+  flex-direction: column;
+  gap: 16px;
+}
+.link4,
+.product-headers-wrapper {
+  flex-direction: row;
+  padding: 0 68px 0 67px;
+}
+.link4 {
+  height: 356px;
+  width: 272px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 347px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16.5px;
+  box-sizing: border-box;
+  gap: 32.4px;
+}
+.background-icon5 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 6px 6px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-415,
+.heading-510 {
+  position: relative;
+  line-height: 25px;
+}
+.heading-510 {
+  width: 61.2px;
+  letter-spacing: -0.17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.heading-5-25-usd-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.heading-511 {
+  position: relative;
+  line-height: 16px;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 72px;
+}
+.heading-5-available-in-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+  text-align: left;
+  font-size: 14px;
+  color: #666;
+}
+.list-item-picture-usweb1 {
+  height: 20px;
+  width: 30px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.list-item-picture-usweb-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.heading-4-guild-wars-ii-2000-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.link-inner1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 4px 0 12px;
+}
+.link5 {
+  height: 365px;
+  width: 279.5px;
+  margin: 0 !important;
+  position: absolute;
+  top: 1317px;
+  left: 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 7px 21px 0;
+  box-sizing: border-box;
+  gap: 36.9px;
+}
+.background-icon6 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 6px 6px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.card,
+.john-lewis {
+  margin: 0;
+}
+.heading-512,
+.john-lewis-container {
+  position: relative;
+  line-height: 25px;
+}
+.heading-512 {
+  line-height: 24px;
+  display: inline-block;
+  min-width: 110px;
+}
+.heading-5-10-250-gbp-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 63px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.heading-513 {
+  position: relative;
+  line-height: 16px;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 72px;
+}
+.heading-5-available-in-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  text-align: left;
+  font-size: 14px;
+  color: #666;
+}
+.list-item-picture-gbweb2 {
+  height: 20px;
+  width: 30px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.list-item-picture-gbweb-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.john-lewis-partners-gift-car-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.link-inner2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 17px 0 18px;
+}
+.link6 {
+  height: 365px;
+  width: 272px;
+  margin: 0 !important;
+  position: absolute;
+  top: 1317px;
+  left: 1395.5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 8.5px;
+  box-sizing: border-box;
+  gap: 24.4px;
+}
+.background-icon7 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 6px 6px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-416 {
+  flex: 1;
+  position: relative;
+  line-height: 25px;
+}
+.heading-4-marshalls-gift-car-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 30px;
+}
+.heading-514 {
+  width: 109px;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.heading-5-10-250-usd-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.heading-515 {
+  position: relative;
+  line-height: 16px;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 72px;
+}
+.product-available-label-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 19px 5px;
+  text-align: left;
+  font-size: 14px;
+  color: #666;
+  font-family: Roboto;
+}
+.item-picture-cawebp2,
+.item-picture-uswebp2 {
+  align-self: stretch;
+  width: 30px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 20px;
+}
+.product-country-pictures-c-a {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-parent3 {
+  width: 170.5px;
+  flex-direction: column;
+  gap: 16px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.frame-parent2,
+.frame-parent3,
+.link-inner3,
+.link7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent2 {
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+}
+.link-inner3,
+.link7 {
+  width: 241.5px;
+  flex-direction: row;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.link7 {
+  height: 365px;
+  width: 272px;
+  margin: 0 !important;
+  position: absolute;
+  top: 1756px;
+  left: 694px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 21px;
+  gap: 31.9px;
+}
+.background-icon8 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 6px 6px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-417,
+.heading-516 {
+  position: relative;
+  line-height: 25px;
+}
+.heading-516 {
+  align-self: stretch;
+  letter-spacing: -0.12px;
+  line-height: 135%;
+}
+.heading-517 {
+  position: relative;
+  line-height: 16px;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 72px;
+}
+.product-available-label,
+.product-price-a-u-d {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-available-label {
+  flex-direction: row;
+  padding: 0 19px 0 18px;
+  text-align: left;
+  font-size: 14px;
+  color: #666;
+  font-family: Roboto;
+}
+.product-price-a-u-d {
+  width: 109px;
+  flex-direction: column;
+  gap: 16px;
+}
+.product-price-a-u-d-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.item-picture-auwebp1,
+.item-picture-uswebp3 {
+  align-self: stretch;
+  width: 30px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 20px;
+}
+.product-country-pictures-u-s {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-parent4,
+.frame-wrapper,
+.product-country-pictures-u-s {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent4 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 21px;
+}
+.frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 17px 0 0;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.heading-4-roblox-gift-card-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.link-inner4,
+.link8 {
+  width: 228.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.link8 {
+  height: 365px;
+  width: 272px;
+  margin: 0 !important;
+  position: absolute;
+  top: 1756px;
+  left: 1388px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 24.9px;
+  gap: 28px;
+}
+.background-icon9 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 6px 6px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-418,
+.heading-518 {
+  position: relative;
+  line-height: 25px;
+}
+.heading-518 {
+  width: 109.4px;
+  letter-spacing: -0.12px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.heading-5-25-100-aud-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.heading-519 {
+  position: relative;
+  line-height: 16px;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 72px;
+}
+.heading-5-available-in-wrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 19px 5px;
+  text-align: left;
+  font-size: 14px;
+  color: #666;
+  font-family: Roboto;
+}
+.item-picture-auwebp2,
+.item-picture-gbwebp1,
+.item-picture-uswebp4 {
+  align-self: stretch;
+  width: 30px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 20px;
+}
+.product-country-pictures-g-b {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-parent5,
+.frame-wrapper1,
+.product-country-pictures-g-b {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent5 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 10px 0 0;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.heading-4-xbox-gift-card-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.link-inner5 {
+  width: 221px;
+  flex-direction: row;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.link-inner5,
+.link9,
+.product-grid {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link9 {
+  height: 365px;
+  width: 272px;
+  margin: 0 !important;
+  position: absolute;
+  top: 2195px;
+  left: 1041px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 21px;
+  box-sizing: border-box;
+  gap: 31.9px;
+}
+.product-grid {
+  height: 2560px;
+  width: 1680px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 74px 75px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 20px;
+  color: #333;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .heading-413,
+  .heading-414,
+  .heading-415,
+  .heading-416,
+  .heading-417,
+  .heading-418,
+  .john-lewis-container {
+    font-size: 16px;
+    line-height: 20px;
+  }
+}

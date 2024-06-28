@@ -1,0 +1,47 @@
+.svg-icon {
+  width: 90px;
+  height: 90px;
+  position: relative;
+}
+.heading-42 {
+  width: 187.7px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.browse-our-extensive {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.design-content,
+.svg-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.design-content {
+  align-self: stretch;
+  gap: 20px;
+}
+.svg-parent {
+  width: 400px;
+  padding: 0 36px;
+  box-sizing: border-box;
+  gap: 42px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 18px;
+  color: #666;
+  font-family: "Libre Caslon Text";
+}
+@media screen and (max-width: 450px) {
+  .svg-parent {
+    gap: 21px;
+  }
+}

@@ -1,0 +1,165 @@
+.logo-symbol-icon {
+  height: 64px;
+  width: 64px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.lucid-giftgalaxy {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.logo {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 31px 0 0;
+  box-sizing: border-box;
+  gap: 4px;
+  max-width: 100%;
+}
+.item-link,
+.item-link1,
+.item-link2 {
+  height: 30px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  min-width: 73px;
+}
+.item-link1,
+.item-link2 {
+  min-width: 71px;
+}
+.item-link2 {
+  min-width: 74px;
+  white-space: nowrap;
+}
+.item-link3 {
+  min-width: 114px;
+  white-space: nowrap;
+}
+.item-link3,
+.item-link4,
+.item-link5,
+.item-link6 {
+  height: 30px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.item-link4 {
+  min-width: 76px;
+  white-space: nowrap;
+}
+.item-link5,
+.item-link6 {
+  min-width: 69px;
+}
+.item-link6 {
+  min-width: 40px;
+}
+.item-link-birthdays-parent {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #333;
+  font-family: Manrope;
+}
+.icon {
+  height: 16px;
+  width: 18px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.link-icon {
+  height: 16px;
+  width: 14px;
+}
+.icon1,
+.link-icon,
+.uspng-icon {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon1 {
+  height: 16px;
+  width: 16px;
+}
+.uspng-icon {
+  align-self: stretch;
+  width: 28px;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 18px;
+}
+.icon-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 0;
+  gap: 24px;
+}
+.header,
+.header1,
+.logo-parent {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.logo-parent {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.header,
+.header1 {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header1 {
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+  background-color: #fff;
+  padding: 19px 120px;
+  box-sizing: border-box;
+}
+.header {
+  text-align: left;
+  font-size: 32px;
+  color: #007373;
+  font-family: "Libre Caslon Text";
+}
+@media screen and (max-width: 1225px) {
+  .header1 {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .header1 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}

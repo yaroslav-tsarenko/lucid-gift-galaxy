@@ -1,0 +1,245 @@
+.card-selection,
+.heading-31 {
+  display: flex;
+  justify-content: center;
+}
+.heading-31 {
+  margin: 0;
+  width: 183.1px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.card-selection {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 19px;
+}
+.horizontal-divider2 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  background-color: #666;
+}
+.divider-components {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 27.5px 0 0;
+  box-sizing: border-box;
+  min-width: 456px;
+  max-width: 100%;
+}
+.heading-41 {
+  margin: 0;
+  width: 426.1px;
+  position: relative;
+  font-size: inherit;
+  line-height: 56px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.horizontal-divider3 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  background-color: #666;
+}
+.card-divider,
+.divider-components1 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider-components1 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 27.5px 0 0;
+  min-width: 456px;
+}
+.card-divider {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0 0 64px;
+  gap: 44.9px;
+  text-align: center;
+  font-size: 48px;
+  color: #666;
+  font-family: "Libre Caslon Text";
+}
+.picture-love-v1789webp1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.background3 {
+  height: 38px;
+  width: 98px;
+  z-index: 1;
+}
+.item3 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  position: relative;
+  min-width: 376px;
+  max-width: 100%;
+  min-height: 319px;
+}
+.picture-celebration-v1789we1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.background4 {
+  height: 38px;
+  width: 207.1px;
+  z-index: 1;
+}
+.item4 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  position: relative;
+  min-width: 376px;
+  max-width: 100%;
+  min-height: 319px;
+}
+.picture-all-v1789webp1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.background5 {
+  height: 38px;
+  width: 129.7px;
+  z-index: 1;
+}
+.item5,
+.list1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.item5 {
+  align-items: flex-end;
+  justify-content: flex-end;
+  position: relative;
+  min-width: 376px;
+  min-height: 319px;
+}
+.list1 {
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  row-gap: 20px;
+}
+.card-list,
+.productdescriptionpage {
+  display: flex;
+  justify-content: flex-start;
+}
+.card-list {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 80px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.productdescriptionpage {
+  width: 100%;
+  position: relative;
+  background-color: #f7f7f7;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 24px;
+  color: #008484;
+  font-family: "Libre Caslon Text";
+}
+@media screen and (max-width: 850px) {
+  .divider-components {
+    min-width: 100%;
+  }
+  .heading-41 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .divider-components1 {
+    min-width: 100%;
+  }
+  .card-divider {
+    gap: 22px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-31 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-41 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .item3,
+  .item4,
+  .item5 {
+    min-width: 100%;
+  }
+  .card-list {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

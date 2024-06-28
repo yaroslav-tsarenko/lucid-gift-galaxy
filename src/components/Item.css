@@ -1,0 +1,51 @@
+.picture-birthday-v1789webp {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.birthday {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.background6,
+.item6 {
+  display: flex;
+  flex-direction: row;
+}
+.background6 {
+  width: 134.5px;
+  background-color: #007373;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.9px 24px 6.1px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.item6 {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: flex-end;
+  position: relative;
+  min-width: 376px;
+  max-width: 100%;
+  min-height: 319px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: "Libre Caslon Text";
+}
+@media screen and (max-width: 450px) {
+  .item6 {
+    min-width: 100%;
+  }
+}
